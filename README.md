@@ -118,7 +118,7 @@ What began as curiosity about how websites are built in school quickly grew into
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rohitpoudel">
+<a href="https://www.linkedin.com/in/rohitpoudel](https://www.linkedin.com/in/rohit-poudel-633364310/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rohitpoudel020@gmail.com">
