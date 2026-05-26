@@ -1,62 +1,17 @@
-<h1 align="center">Hi, I'm Rohit 👨‍💻</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Python+Developer;IoT+Enthusiast;Loves+Code+%26+Real-world+Projects;Stay+Curious+%7C+Keep+Building" alt="Typing SVG" />
-</p>
-
-
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
-
-## 👨‍💻 About Me
-
-- 🎓 High School Graduate (Nepal, 2025)
-- 🧠 Learning **Data Science** and **AI**
-- 💻 Love building: Python apps • Smart Systems • Games
-- 🧩 Projects that solve real problems
-
----
-
-## 🚀 Projects
-
-- 🎮 [Snake Game](https://github.com/Code4Sake/Snake_game) — Classic snake game with scoring & self-collision  
-- 🏠 IoT Smart House — Rainwater harvesting, solar tracker, LPG/fire alert  
-- ☀️ Solar Tracking System — Auto LDR-servo sun movement with ESP8266  
-- 🔐 Smart Security — Laser detection, gas alert, cloth protection system
-
----
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code4Sake&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code4Sake&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Code4Sake&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: `rohitpoudel020@gmail.com`
-- 🌐 Portfolio: Coming soon...
-
----
-
-> _“Think bigger. Build smarter. Break rules ethically.”_ 🧠💡
+# Hi, I'm Rohit 👋
+I'm a computer science student and developer from Nepal, focusing on **Machine Learning, IoT, and Full-Stack Development**. I enjoy building systems that bridge the gap between software and the physical world to solve real problems.
+### 🚀 What I'm working on
+- 🧠 Completing an AI/ML microdegree at AICN (AI Community of Nepal)
+- 🌍 Refining my Earthquake Damage Prediction ML model
+- 🔭 Exploring the intersection of IoT sensors and predictive algorithms
+### 🛠️ Featured Projects
+*   **[Earthquake Damage Prediction](#)** - Trained an XGBoost model on 260,000 real Gorkha earthquake records to predict building structural damage based on foundation and construction data. *(Python, pandas, XGBoost)*
+*   **[SajhaDoctor](#)** - A full-stack telehealth platform connecting patients with doctors for online consultations. *(React, Node.js)*
+*   **IoT Smart Residence** - Automated home monitoring system featuring rainwater harvesting, solar tracking, and gas/fire alerts. *(Arduino, C++)*
+### 💻 Tech Stack
+*   **Languages:** Python, JavaScript, C/C++
+*   **Data & ML:** pandas, NumPy, XGBoost, Scikit-learn
+*   **Web & Tools:** React.js, Node.js, Git/GitHub, Arduino
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/rohitpoudel](#) *(Link your actual profile here)*
+- **Email:** rohitpoudel020@gmail.com
