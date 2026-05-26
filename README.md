@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I got into coding because I wanted to **build things that actually work** — not just write code for the sake of it.
+I got into coding because I wanted to **build things that actually work**.
 
 What began as curiosity about how websites are built in school quickly grew into a deep interest in **machine learning, IoT, and full-stack development**. I've never waited for formal instruction. When I want to build something, I learn through documentation, experimentation, and iteration.
 
@@ -45,32 +45,12 @@ What began as curiosity about how websites are built in school quickly grew into
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 SajhaDoctor — Telehealth Platform</h3>
-      <p align="center">A full-stack <strong>doctor-patient consultation platform</strong> built with React and Node.js, enabling remote healthcare access across Nepal.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🏠 IoT Smart Residence System</h3>
       <p align="center">An <strong>Arduino-based smart home system</strong> using environmental sensors for automated monitoring, lighting and alert systems.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/IoT-Embedded-green?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Jamarko — Talent Platform</h3>
-      <p align="center">A community-driven platform where people could <strong>showcase and discover talents</strong> — art, music, dance. Built and promoted with real active users.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
     </td>
   </tr>
@@ -157,7 +137,7 @@ What began as curiosity about how websites are built in school quickly grew into
 
 <div align="center">
 
-<i>"I started coding because I wanted to build things that actually work — not just write code for the sake of it."</i>
+<i>"I started coding because I wanted to build things that actually work, not just write code for the sake of it."</i>
 
 <br/><br/>
 
