@@ -1,146 +1,207 @@
+<!--
+  ╔═══════════════════════════════════════════════════════╗
+  ║         Hi there. You found the source code.         ║
+  ║   If you're reading this, we should probably talk.   ║
+  ╚═══════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohit%20Poudel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20that%20actually%20work&descAlignY=51&descAlign=50" width="100%"/>
+```
+ ██████╗  ██████╗ ██╗  ██╗██╗████████╗
+ ██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝
+ ██████╔╝██║   ██║███████║██║   ██║   
+ ██╔══██╗██║   ██║██╔══██║██║   ██║   
+ ██║  ██║╚██████╔╝██║  ██║██║   ██║   
+ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝  
+```
 
-<br/>
+### I turn real problems into working products.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EF7F7&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+IoT+%7C+Full-Stack;Python+Developer+%7C+AICN+%7C+Nepal;I+build+things+that+actually+work.)](https://git.io/typing-svg)
+*CS Student · Nepal 🇳🇵 · 2× Hackathon Winner*
 
-<br/>
-
-<img src="./terminal.svg" alt="Terminal animation" width="700"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=16A34A&center=true&vCenter=true&width=500&lines=Building+civic+tech+for+Nepal;Turning+datasets+into+deployable+tools;Full-stack+%2B+ML+%2B+IoT+%2B+whatever+it+takes;Runner-up+%40+CivicCode+Hackathon+2026)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `> whoami`
 
-I got into coding because I wanted to **build things that actually work**.
-
-What began as curiosity about how websites are built in school quickly grew into a deep interest in **machine learning, IoT, and full-stack development**. I've never waited for formal instruction. When I want to build something, I learn through documentation, experimentation, and iteration.
-
-- 🏔️ Based in **Kathmandu, Nepal**
-- 🎓 Completing **AI/ML Microdegree** at AICN (AI Community of Nepal)
-- 🤖 Passionate about **ML models, IoT systems & real-world AI applications**
-- 🌱 Always exploring — when a new AI tool drops, I want to try it immediately
-- 🎸 Outside of tech: **Guitar & Music**
-- 📬 **rohitpoudel020@gmail.com**
-- 🌐 **[rohitpoudel.com.np](https://www.rohitpoudel.com.np)**
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌍 Disaster Prediction System</h3>
-      <p align="center">Trained an <strong>XGBoost model</strong> on <strong>260,000+</strong> real building records from the 2015 Gorkha earthquake to predict which structures are most at risk of damage.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/XGBoost-F97316?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏠 IoT Smart Residence System</h3>
-      <p align="center">An <strong>Arduino-based smart home system</strong> using environmental sensors for automated monitoring, lighting and alert systems.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IoT-Embedded-green?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+```python
+rohit = {
+    "name"        : "Rohit Poudel",
+    "alias"       : "CalyPx",
+    "location"    : "Nepal 🇳🇵",
+    "focus"       : "Building products that solve real Nepali problems",
+    "approach"    : "Turn real datasets into working products",
+    "wins"        : [
+                      "🥈 Runner-up — CivicCode Hackathon 2026 (Think Big)",
+                      "🥉 Second Runner-up — PCPS College Hackathon",
+                    ],
+    "currently"   : ["Sahayatri Nepal website", "NepalPrep", "whatever's next"],
+    "fun_fact"    : "A tomato costs Rs.20 at the farm. Rs.80 in Kathmandu. I built something about that.",
+}
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `> ls projects/`
+
+<details>
+<summary><b>🗣️ Sunuwa</b> — Civic Issue Reporting Platform &nbsp;&nbsp;<code>TypeScript</code> &nbsp; 🏆 Runner-up · CivicCode 2026</summary>
+
+<br>
+
+> *"Sunuwa" means "hearing" in Nepali. That's exactly what it does.*
+
+Citizens report civic issues. Authorities actually hear them. Built during CivicCode 2026 — Nepal's biggest civic tech hackathon — and walked away Runner-up.
+
+**Stack:** `TypeScript` `Next.js` `Firebase`
+
+</details>
+
+---
+
+<details>
+<summary><b>🌾 Harvo</b> — Farm-to-Vendor Marketplace &nbsp;&nbsp;<code>React · Node · MongoDB</code> &nbsp; 🥉 Runner-up · PCPS Hackathon</summary>
+
+<br>
+
+> *A farmer wakes up at 4 AM. Harvests tomatoes. Sells them to a middleman for Rs. 20/kg. That same kilogram reaches Kathmandu at Rs. 80. The farmer sees none of that margin. Harvo fixes that.*
+
+**What makes it different:**
+- 🎙️ **Voice-guided Nepali interface** — Web Speech API walks farmers through every step out loud, because most don't need another app that requires reading
+- 📊 **Live Kalimati wholesale prices** — auto-scraped, so farmers know what their crop is actually worth before they sell
+- 🤖 **AI spoilage risk check** — evaluates harvest date + road distance + shelf life before a vendor can book. Reduces food waste.
+- 💳 **eSewa escrow** — vendor deposits advance via eSewa to lock the order. Builds financial trust between strangers.
+- 🌐 **Bilingual** — full EN / नेपाली toggle
+
+**Stack:** `React 18` `Node.js` `MongoDB` `Socket.io` `eSewa` `Web Speech API`
+
+</details>
+
+---
+
+<details>
+<summary><b>🏥 SajhaDoctor</b> — Telehealth Platform &nbsp;&nbsp;<code>React · Firebase</code></summary>
+
+<br>
+
+> *NMC-verified doctors. Remote patients. No middleman.*
+
+Bilingual (EN/नेपाली) telehealth platform connecting patients in rural Nepal to specialist doctors — without them traveling days to Kathmandu. Digital prescriptions, medical record vault, consultation analytics. Fully Firebase-first, no backend server.
+
+**Stack:** `React 19` `Firebase` `Tailwind CSS` `Framer Motion`
+
+</details>
+
+---
+
+<details>
+<summary><b>🏚️ QuakeSafe Nepal</b> — Earthquake Damage Prediction &nbsp;&nbsp;<code>Python · XGBoost · FastAPI</code></summary>
+
+<br>
+
+> *260,601 buildings. 38 features. 1 question: will yours survive?*
+
+Trained on real survey data from the 2015 Gorkha earthquake (DrivenData). Predicts structural damage grade and returns a **Preparedness Score /100** with specific safety recommendations — deployed as a live web app.
+
+| Model | Accuracy | F1 |
+|---|---|---|
+| Decision Tree | 65.25% | 0.60 |
+| Random Forest | 69.43% | 0.66 |
+| **XGBoost + SMOTE** ✅ | **74.45%** | **0.70** |
+
+5 custom features engineered manually — `volume_proxy` ranked 4th in overall feature importance.
+
+**Stack:** `Python` `XGBoost` `scikit-learn` `SMOTE` `FastAPI` `Pandas`
+
+</details>
+
+---
+
+<details>
+<summary><b>📚 NepalPrep</b> — SEE Exam Preparation Platform &nbsp;&nbsp;<code>JavaScript</code></summary>
+
+<br>
+
+> *Nepal's SEE exam decides a student's academic future. NepalPrep makes sure they're ready for it.*
+
+**Stack:** `JavaScript`
+
+</details>
+
+---
+
+## `> cat skills.txt`
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  Frontend    React · Next.js · TypeScript           │
+│              Tailwind CSS · Framer Motion           │
+│                                                     │
+│  Backend     Node.js · Express · FastAPI            │
+│              MongoDB · Firebase · Socket.io         │
+│                                                     │
+│  ML/Data     XGBoost · scikit-learn · SMOTE         │
+│              Pandas · NumPy · Jupyter               │
+│                                                     │
+│  Payments    eSewa                                  │
+│                                                     │
+│  Other       Web Speech API · D3-geo · Vite         │
+│              JWT · Multer · Joblib                  │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> git log --oneline --hackathons`
+
+```
+🥈 a3f1c2d  Runner-up — CivicCode Hackathon 2026 (Think Big)  [Sunuwa]
+🥉 b8e4f1a  Second Runner-up — PCPS College Hackathon          [Harvo]
+```
+
+---
+
+## `> neofetch`
 
 <div align="center">
 
-<h4>Languages</h4>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalyPx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=16A34A&icon_color=16A34A)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalyPx&layout=compact&theme=github_dark&hide_border=true&title_color=16A34A)
 
-<h4>ML / Data Science</h4>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<h4>Web Development</h4>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<h4>IoT & Hardware</h4>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-Embedded-red?style=for-the-badge"/>
-
-<h4>Tools</h4>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+![Streak](https://streak-stats.demolab.com?user=CalyPx&theme=github-dark-blue&hide_border=true&ring=16A34A&fire=16A34A&currStreakLabel=16A34A)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `> ping rohit`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Code4Sake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code4Sake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+[![GitHub](https://img.shields.io/badge/GitHub-CalyPx-181717?style=for-the-badge&logo=github)](https://github.com/CalyPx)
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Code4Sake&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EF7F7&ring=6EF7F7&fire=FF6B6B&currStreakLabel=6EF7F7"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rohit-poudel-633364310/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:rohitpoudel020@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.rohitpoudel.com.np">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Code4Sake">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+*Open to collaborations, hackathons, and building things that actually matter.*
 
 </div>
 
 ---
 
 <div align="center">
+<sub>
 
-<i>"I started coding because I wanted to build things that actually work, not just write code for the sake of it."</i>
+```
+/* This profile README was not generated by a template. */
+```
 
-<br/><br/>
+*"A tomato costs Rs. 20 at the farm. Rs. 80 in Kathmandu.*
+*I built something about that. That's who I am."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+</sub>
 </div>
